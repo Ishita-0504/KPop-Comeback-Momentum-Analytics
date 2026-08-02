@@ -12,7 +12,7 @@ An executive-style interactive analytics dashboard built using **Python**, **Str
 
 # 🌐 Live Demo
 
-👉 **Dashboard:** *(Add your deployed Streamlit link here)*
+👉 **Dashboard:** https://kpop-comeback-momentum-analytics.streamlit.app/
 
 ---
 
