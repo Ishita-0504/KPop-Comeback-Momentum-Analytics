@@ -108,31 +108,6 @@ Executive recommendation engine that provides:
 
 ---
 
-# 📂 Project Structure
-
-```text
-K-Pop-Chart-ReEntry-Comeback-Momentum-Analytics/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── data/
-│   └── Atlantic_South_Korea.csv
-│
-└── src/
-    ├── charts.py
-    ├── data_loader.py
-    ├── fandom.py
-    ├── momentum.py
-    ├── recommendation.py
-    ├── reentry.py
-    ├── styles.py
-    └── __init__.py
-```
-
----
-
 # 🛠 Technologies Used
 
 - Python
@@ -202,14 +177,8 @@ streamlit run app.py
 
 # 📸 Dashboard Preview
 
-Add screenshots of:
+<img width="1919" height="1195" alt="image" src="https://github.com/user-attachments/assets/b885b1ba-c82e-4e19-b4a1-939b6e094548" />
 
-- Home Dashboard
-- Market Overview
-- Re-Entry Intelligence
-- Comeback Momentum
-- Fandom Intelligence
-- Strategic Recommendations
 
 ---
 
@@ -253,12 +222,6 @@ KIIT University
 🔗 LinkedIn: https://www.linkedin.com/in/ishita-das-a90aa733b/
 
 💻 GitHub: https://github.com/Ishita-0504
-
----
-
-# ⭐ Support
-
-If you found this project interesting, consider giving it a ⭐ on GitHub.
 
 ---
 
